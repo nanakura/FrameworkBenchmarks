@@ -4,7 +4,6 @@ go 1.20
 
 require (
 	github.com/cloudwego/hertz v0.7.1
-	github.com/goccy/go-json v0.10.2
 	github.com/jackc/pgx/v5 v5.5.4
 )
 
